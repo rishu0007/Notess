@@ -26,3 +26,9 @@ $ npm start
 ## Screenshots
 
 ![Screenshot (25)](https://github.com/rishu0007/Notess/assets/106136366/642b25bb-b2da-46fc-b589-0873854fad08)
+
+![Screenshot (26)](https://github.com/rishu0007/Notess/assets/106136366/7ae43eaf-9b19-4239-9024-b3d19ae6479e)
+
+![Screenshot (27)](https://github.com/rishu0007/Notess/assets/106136366/b9d40681-a9a0-4679-9874-b05a786fb76c)
+
+![Screenshot (28)](https://github.com/rishu0007/Notess/assets/106136366/58548fe5-6be6-4a34-a341-94045112e333)
